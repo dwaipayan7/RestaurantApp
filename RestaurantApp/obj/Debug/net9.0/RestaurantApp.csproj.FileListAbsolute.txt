@@ -47,3 +47,4 @@ D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\refint\RestaurantApp.dll
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.pdb
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.genruntimeconfig.cache
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\ref\RestaurantApp.dll
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.sourcelink.json

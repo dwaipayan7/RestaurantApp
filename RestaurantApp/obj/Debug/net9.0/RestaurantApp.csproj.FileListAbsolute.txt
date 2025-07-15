@@ -1,3 +1,12 @@
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.csproj.AssemblyReference.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.AssemblyInfoInputs.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.AssemblyInfo.cs
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.csproj.CoreCompileInputs.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.MvcApplicationPartsAssemblyInfo.cs
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.MvcApplicationPartsAssemblyInfo.cache
+D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.sourcelink.json
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\appsettings.Development.json
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\appsettings.json
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\RestaurantApp.staticwebassets.endpoints.json
@@ -25,14 +34,6 @@ D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGe
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 D:\RestaurantApp\RestaurantApp\bin\Debug\net9.0\ZstdSharp.dll
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.csproj.AssemblyReference.cache
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.AssemblyInfoInputs.cache
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.AssemblyInfo.cs
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.csproj.CoreCompileInputs.cache
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.MvcApplicationPartsAssemblyInfo.cs
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.MvcApplicationPartsAssemblyInfo.cache
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -47,4 +48,3 @@ D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\refint\RestaurantApp.dll
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.pdb
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.genruntimeconfig.cache
 D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\ref\RestaurantApp.dll
-D:\RestaurantApp\RestaurantApp\obj\Debug\net9.0\RestaurantApp.sourcelink.json
